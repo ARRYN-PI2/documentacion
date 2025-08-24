@@ -142,6 +142,5 @@ Estas ramas son temporales y se crean según la necesidad, con un enfoque estric
 
 ## Resumen del Flujo
 
-<img width="491" height="522" alt="Screenshot 2025-08-23 at 8 26 31 PM" src="https://github.com/user-attachments/assets/da8b4b2e-a859-4fa4-a71e-9fe3b74521d1" />
-
+<img width="365" height="379" alt="image" src="https://github.com/user-attachments/assets/86caae41-9f11-4c19-9de0-4215fc86d42e" />
 
